@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/counter-cw.png</file>
+        <file>images/cw.png</file>
+        <file>images/Zoom in.png</file>
+        <file>images/Zoom out.png</file>
+        <file>bpgviewer.ico</file>
+        <file>images/bpgviewer.png</file>
+        <file>images/info.png</file>
+        <file>images/open.png</file>
+    </qresource>
+</RCC>
